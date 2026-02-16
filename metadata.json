@@ -1,0 +1,7 @@
+{
+  "name": "HELIO Marketing Agency",
+  "description": "A cutting-edge, creative marketing agency website for HELIO UAE, featuring an AI-powered marketing strategist and performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
